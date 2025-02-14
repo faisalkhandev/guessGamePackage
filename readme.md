@@ -19,7 +19,7 @@
 
 Install the package globally using npm:
 
-npm install -g @faisalkhandev/guess-game
+npm install @faisalkhandev/guess-game
 
 Or use it directly with npx (no installation required):
 
