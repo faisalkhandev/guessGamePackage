@@ -54,8 +54,8 @@ guessGame();
 
 If you want to contribute or modify the game:
 
-git clone https://github.com/faisalkhandev/guess-game.git
-cd guess-game
+git clone https://github.com/faisalkhandev/guessGamePackage.git
+cd guessGamePackage
 npm install
 node guess.js --guess 5
 
