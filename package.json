@@ -4,7 +4,7 @@
   "description": "A simple number guessing game CLI tool",
   "main": "guess.js",
   "bin": {
-    "guess": "./guess.js"
+    "guess": "guess.js"
   },
   "keywords": [
     "cli game",
