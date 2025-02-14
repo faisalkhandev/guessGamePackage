@@ -1,0 +1,15 @@
+{
+  "name": "guess-the-number",
+  "version": "1.0.0",
+  "description": "A simple number guessing game CLI tool",
+  "main": "guess.js",
+  "bin": {
+    "guess": "./guess.js"
+  },
+  "keywords": ["cli game", "game", "guess number", "number", "nodejs"],
+  "author": "Faisal Khan",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}
