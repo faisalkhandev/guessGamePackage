@@ -55,24 +55,14 @@ guessGame();
 If you want to contribute or modify the game:
 
 git clone https://github.com/faisalkhandev/guessGamePackage.git
+
 cd guessGamePackage
+
 npm install
+
 node guess.js --guess 5
 
 📝 License
 This project is licensed under the MIT License.
 
-📌 Created by Faisal Khan 🚀
-
-🔍 Keywords for Better SEO
-CLI number guessing game
-Node.js command-line game
-Number guess CLI tool
-Fun terminal games
-npm CLI game
-Guess the number game
-📢 Support
-If you like this package, consider ⭐ starring the repository and sharing it! 😊
-For issues or suggestions, open an issue.
-
-Happy Coding! 🚀
+📌 Created by Faisal Khan Dev 🚀
