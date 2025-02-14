@@ -1,5 +1,5 @@
 {
-  "name": "guess-the-number",
+  "name": "guess-game",
   "version": "1.0.1",
   "description": "A simple number guessing game CLI tool",
   "main": "guess.js",
